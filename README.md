@@ -1,4 +1,4 @@
-# Portifólio - Davi Lucciola
+# SynthPortifolio - Davi Lucciola
 
 ![PortifolioHero](./assets/hero.png)
 
